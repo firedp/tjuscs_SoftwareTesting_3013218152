@@ -1,0 +1,1 @@
+{"classes":[{"testCases":[{"success":"1","methodName":"testSJF"},{"success":"1","methodName":"testSJF2"},{"success":"1","methodName":"testFCFS"},{"success":"1","methodName":"testSJF1"},{"success":"1","methodName":"testSortByServiceTime"}],"className":"ScheduleTest"}],"totalNum":5,"proName":"Schedule","successNum":5,"failureNum":0}
